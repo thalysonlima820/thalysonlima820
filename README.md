@@ -6,7 +6,7 @@
 
 
 ![Thalyson GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonlima820&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=compact)
 
 ### Tecnologias do dia a dia
 

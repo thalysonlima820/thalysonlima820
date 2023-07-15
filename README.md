@@ -18,4 +18,3 @@
     <img align="center01" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10

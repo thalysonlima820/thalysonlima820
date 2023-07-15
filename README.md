@@ -18,13 +18,11 @@
     <img align="center01" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&size_weight=0.5&count_weight=0.5)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&hide_progress=true)

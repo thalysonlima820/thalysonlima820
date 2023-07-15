@@ -27,5 +27,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&hide_progress=true)
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalysonlima820&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/thalysonlima820/caixa)https://github.com/thalysonlima820/caixa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/thalysonlima820/caixa)https://github.com/thalysonlima820/caixa)

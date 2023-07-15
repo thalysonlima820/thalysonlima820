@@ -22,7 +22,7 @@
     <img align="center01" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 <div style="display: inline_block"> <br/>
-    <img align="center01" alt="jquery" src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img align="center01" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 <div style="display: inline_block"> <br/>
     <img align="center01" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />

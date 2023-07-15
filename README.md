@@ -20,12 +20,12 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&size_weight=0.5&count_weight=0.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thalysonlima820&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/thalysonlima820/caixa)https://github.com/thalysonlima820/caixa)

@@ -10,7 +10,11 @@
 ### Tecnologias do dia a dia
     <style>
         
-        ul{
+
+
+       
+    </style>
+ <ul style= "        ul{
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -109,11 +113,7 @@
         100%{
             
         }
-       }
-
-       
-    </style>
- <ul>
+       }" >
         <li style="--color: #ef436b">
             <span class="base"></span>
             <span class="title">HTML</span>

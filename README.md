@@ -6,3 +6,11 @@
 
 
 ![Thalyson GitHub stats](https://github-readme-stats.vercel.app/api?username=thalysonlima820&show_icons=true&theme=radical)
+
+### Tecnologias do dia a dia
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)

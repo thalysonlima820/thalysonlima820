@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="http://www.github.com/codewithfranciss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thalysonlima820&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/codewithfranciss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thalysonlima820&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=radical" /></a>
 
 
 

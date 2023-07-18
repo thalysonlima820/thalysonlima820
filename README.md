@@ -36,6 +36,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical)](https://github.com/thalysonlima820/caixa)
 
 
+<a href="http://www.github.com/codewithfranciss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithfranciss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
 
 ### Support Me
 

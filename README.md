@@ -27,8 +27,8 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&theme=radical)](https://github.com/thalysonlima820/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=donut-vertical&theme=radical)](https://github.com/thalysonlima820/github-readme-stats)
 
 
 <a href="http://www.github.com/thalysonlima820"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thalysonlima820&stroke=ffffff&background=141321&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

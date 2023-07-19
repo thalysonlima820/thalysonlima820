@@ -38,4 +38,4 @@
 
 ### Support 
 
-<a href="#"><img src="https://i.pinimg.com/750x/6e/b9/ea/6eb9ea0e12e20d73ab9866445586caf7.jpg" width="200" height="80" /></a>
+<a href="#"><img src="https://i.pinimg.com/750x/6e/b9/ea/6eb9ea0e12e20d73ab9866445586caf7.jpg" width="200" height="130" /></a>

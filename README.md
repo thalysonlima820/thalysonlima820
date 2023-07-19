@@ -38,4 +38,4 @@
 
 ### Support 
 
-<a href="#"><img src="https://i.ibb.co/dfTbcFz/coffee-True.png" width="200" height="130" /></a>
+<a href="#"><img src="https://i.ibb.co/dfTbcFz/coffee-True.png" width="250" height="130" /></a>

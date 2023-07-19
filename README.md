@@ -38,4 +38,4 @@
 
 ### Support 
 
-<a href="#"><img src="http://127.0.0.1:5500/coffee%20=%20True.png" width="200" height="80" /></a>
+<a href="#"><img src="file:///C:/Users/thaly/Downloads/coffee%20=%20True.svg" width="200" height="80" /></a>

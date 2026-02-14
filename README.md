@@ -8,17 +8,8 @@ Curto construir sistemas completos: **frontend + mobile + API + banco** 🚀
 
 ---
 
-### 📊 GitHub Stats
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thalysonlima820&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&hide_progress=true&theme=radical" />
-</div>
-
----
-
-### ✅ Principais Tecnologias (Foco)
+### Principais Tecnologias (Foco)
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -27,7 +18,7 @@ Curto construir sistemas completos: **frontend + mobile + API + banco** 🚀
 
 ---
 
-### 🧰 Stack Diário
+### Stack Diário
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -39,7 +30,7 @@ Curto construir sistemas completos: **frontend + mobile + API + banco** 🚀
 
 ---
 
-### 🧩 Stack Secundário
+### Stack Secundário
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
@@ -49,14 +40,7 @@ Curto construir sistemas completos: **frontend + mobile + API + banco** 🚀
 
 ---
 
-### 🔥 Streak
+### Streak
 <a href="http://www.github.com/thalysonlima820">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalysonlima820&stroke=ffffff&background=141321&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
----
-
-### 💙 Support
-<a>
-  <img src="https://bl6pap004files.storage.live.com/y4mo_13St01wJqUtywnyLlwKQgq5676pqPt8YLUJcuxghiJ9boJKIpd7RSjzafVJcsHIOIKFZgq3ATeFPXQrJ3yOUJp4QsUXD9j63GbkyKIG94t0AQ1sJDxQ7URgF6dX-RJ_Y323XMdeQL1v4huY6X5RdQXQdZi2LItDf4PfJFw0t0HQunwiiRL-9Rcvw4NBT2T?encodeFailures=1&width=625&height=406" width="220px" />
 </a>

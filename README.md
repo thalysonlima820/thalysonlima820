@@ -1,6 +1,6 @@
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Thalyson;Full+Stack+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Web+%E2%80%A2+Mobile+%E2%80%A2+API+%E2%80%A2+Databases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Thalyson;Full+Stack+Developer+from+Brazil;Web+%E2%80%A2+Mobile+%E2%80%A2+API+%E2%80%A2+Databases)](https://git.io/typing-svg)
 
 </p>
 ## Olá, eu sou Thalyson ☕

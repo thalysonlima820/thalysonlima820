@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Thalyson;Full+Stack+Developer;React+%7C+Node+%7C+TypeScript)](https://git.io/typing-svg)
 ## Olá, eu sou Thalyson ☕
 Desenvolvedor focado em **React**, **React Native (Apps)** e **NestJS (Back-end)**.  
 Curto construir sistemas completos: **frontend + mobile + API + banco** 🚀

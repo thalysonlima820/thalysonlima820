@@ -20,6 +20,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalysonlima820&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ### Stack Diário
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
